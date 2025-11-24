@@ -79,7 +79,7 @@ This dashboard provides deeper insights into patterns and categories.
 - Home Ownership Distribution  
 
 ### 📷 Overview Dashboard  
-![Overview](images/dashboard_overview.png)
+![Overview](https://github.com/sagar201993/Bank-Loan-Analysis/blob/main/dashboard%202.png)
 
 ---
 
