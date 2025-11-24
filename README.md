@@ -177,14 +177,6 @@ Definitions from **Terminologies in Data.docx**:
 
 ---
 
-# 👤 Author  
-**Your Name**  
-Data Analyst | SQL | Power BI | DAX  
-🔗 GitHub: Your Profile  
-🔗 LinkedIn: Your Profile  
-
----
-
 # 🎉 Conclusion
 
 This project demonstrates:
@@ -196,7 +188,7 @@ This project demonstrates:
 - Dashboard storytelling  
 - Real-world data modelling  
 
-Perfect for **Data Analyst**, **Business Intelligence**, and **Power BI Developer** roles.
+
 
 
 
