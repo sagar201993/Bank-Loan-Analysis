@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Analysis – Complete End-to-End Power BI & SQL Project (2025 Edition)
+# 🏦 Bank Loan Analysis – Complete End-to-End Power BI & SQL Project 
 
 This project delivers a complete Data Analyst portfolio solution using:
 
