@@ -1,4 +1,4 @@
-# 🏦 Bank Loan Analysis – Complete End-to-End Power BI & SQL Project 
+# Bank Loan Analysis – Complete End-to-End Power BI & SQL Project 
 
 This project delivers a complete Data Analyst solution using:
 
@@ -17,7 +17,7 @@ The goal is to analyze the performance of bank loans, borrower behavior, risk ex
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 Banks process large volumes of loan applications daily.  
 This project helps the bank:
@@ -34,7 +34,7 @@ This project helps the bank:
 
 ---
 
-# 📊 Dashboard 1 — Summary (KPI Overview)
+# Dashboard 1 — Summary (KPI Overview)
 
 This page includes high-level business KPIs:
 
@@ -48,25 +48,25 @@ This page includes high-level business KPIs:
 - Month-over-Month (MoM) Growth  
 
 ### **Good vs Bad Loans**
-#### ✔ Good Loans:
+####  Good Loans:
 - Good Loan Applications  
 - Good Loan %  
 - Good Loan Funded Amount  
 - Good Loan Amount Received  
 
-#### ✔ Bad Loans:
+#### Bad Loans:
 - Bad Loan Applications  
 - Bad Loan %  
 - Bad Loan Funded Amount  
 - Bad Loan Amount Received  
 
-### 📷 Summary Dashboard  
+###  Summary Dashboard  
 ![Summary Dashboard](https://raw.githubusercontent.com/sagar201993/Bank-Loan-Analysis/main/dashboard1.png)
 
 
 ---
 
-# 📈 Dashboard 2 — Overview Insights
+#  Dashboard 2 — Overview Insights
 
 This dashboard provides deeper insights into patterns and categories.
 
@@ -78,12 +78,12 @@ This dashboard provides deeper insights into patterns and categories.
 - Loan Purpose Breakdown  
 - Home Ownership Distribution  
 
-### 📷 Overview Dashboard  
+###  Overview Dashboard  
 ![Overview](https://github.com/sagar201993/Bank-Loan-Analysis/blob/main/dashboard%202.png)
 
 ---
 
-# 📋 Dashboard 3 — Detailed Data View
+#  Dashboard 3 — Detailed Data View
 
 A data exploration page with:
 
@@ -94,12 +94,12 @@ A data exploration page with:
 - Received amount & payment history  
 - Loan status & credit pull dates  
 
-### 📷 Details Dashboard  
+###  Details Dashboard  
 ![Details](https://github.com/sagar201993/Bank-Loan-Analysis/blob/main/dashboard3.png)
 
 ---
 
-# 🧠 Domain Knowledge Summary
+#  Domain Knowledge Summary
 
 Covered in the **Domain Knowledge Doc.docx**.
 
@@ -113,7 +113,7 @@ Includes:
 
 ---
 
-# 📘 Dataset Terminologies
+#  Dataset Terminologies
 
 Definitions from **Terminologies in Data.docx**:
 
@@ -130,7 +130,7 @@ Definitions from **Terminologies in Data.docx**:
 
 ---
 
-# 🛠 Technical Skills Demonstrated
+#  Technical Skills Demonstrated
 
 ## **SQL Skills**
 - Data Cleaning  
@@ -152,7 +152,7 @@ Definitions from **Terminologies in Data.docx**:
 
 ---
 
-# 🔄 End-to-End Workflow
+#  End-to-End Workflow
 
 1. Load raw CSV into SQL  
 2. Clean & validate data  
@@ -167,7 +167,7 @@ Definitions from **Terminologies in Data.docx**:
 
 ---
 
-# 🚀 How to Use This Project
+#  How to Use This Project
 
 1. Download the `.pbix` file from `/pbix`  
 2. Download the dataset from `/data`  
@@ -177,7 +177,7 @@ Definitions from **Terminologies in Data.docx**:
 
 ---
 
-# 🎉 Conclusion
+#  Conclusion
 
 This project demonstrates:
 
