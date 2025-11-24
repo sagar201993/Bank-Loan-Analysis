@@ -61,7 +61,7 @@ This page includes high-level business KPIs:
 - Bad Loan Amount Received  
 
 ### 📷 Summary Dashboard  
-![Summary](images/dashboard_summary.png)
+[![Summary](images/dashboard_summary.png)](https://github.com/sagar201993/Bank-Loan-Analysis/blob/main/dashboard1.png)
 
 ---
 
