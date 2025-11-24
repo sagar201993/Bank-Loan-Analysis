@@ -95,7 +95,7 @@ A data exploration page with:
 - Loan status & credit pull dates  
 
 ### 📷 Details Dashboard  
-![Details](images/dashboard_details.png)
+![Details](https://github.com/sagar201993/Bank-Loan-Analysis/blob/main/dashboard3.png)
 
 ---
 
