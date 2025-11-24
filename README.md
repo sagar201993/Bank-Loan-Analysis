@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Analysis – Complete End-to-End Power BI & SQL Project 
 
-This project delivers a complete Data Analyst portfolio solution using:
+This project delivers a complete Data Analyst solution using:
 
 - **SQL Server**
 - **Power BI**
