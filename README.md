@@ -30,7 +30,7 @@ This project helps the bank:
 - Compare good vs bad loans  
 - Discover trends by time, region, purpose, and employment  
 
-This is a complete **end-to-end analytics lifecycle** project.
+
 
 ---
 
