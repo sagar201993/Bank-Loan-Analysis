@@ -99,23 +99,6 @@ A data exploration page with:
 
 ---
 
-# 🧩 Data Model (Star Schema)
-
-### **Fact Table**
-- financial_loan (all loan metrics)
-
-### **Dimension Tables**
-- Date  
-- Purpose  
-- Employment  
-- Grade/Subgrade  
-- State  
-
-### 📷 Data Model  
-![Data Model](images/data_model.png)
-
----
-
 # 🧠 Domain Knowledge Summary
 
 Covered in the **Domain Knowledge Doc.docx**.
